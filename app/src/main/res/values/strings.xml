@@ -1,0 +1,5 @@
+<resources>
+    <string name="name">SK7 Cafepoint</string>
+    <string name="info">"Coffee: Rs.20 \nChocolate Topping: Rs.10 \nVanilla Topping: Rs.5
+        \nKindly make your order for all coffee with same toppings in a single order \n \nPress RESET for next Purchase"</string>
+</resources>
